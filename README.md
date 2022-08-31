@@ -29,8 +29,6 @@
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=cd3e16">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=8317e1">
-
 </div>&nbsp;
 
   ### Noção Em:
