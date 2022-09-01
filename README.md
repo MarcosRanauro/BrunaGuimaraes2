@@ -12,7 +12,7 @@
 ### Habilidades:
 <div style="display: inline-block">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">
+
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
 
@@ -31,20 +31,13 @@
 
 </div>&nbsp;
 
-  ### Noção Em:
-<div style="display: inline-block">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/powershell-0D1117?style=for-the-badge&logo=powershell&logoColor=253284">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>&nbsp;
   
   ### Estudando:
 <div style="display: inline-block">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=601591">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>&nbsp;
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=15991B">
 
 </div>&nbsp;
 
