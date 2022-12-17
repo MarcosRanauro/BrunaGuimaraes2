@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGuimaraes2&layout=compact&hide_border=true&title_color=FF1493&text_color=00cc86&bg_color=0d1117" />
 </div>&nbsp;
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=BrunaGuimaraes2&theme=high-contrast&hide_border=true&area=true)&nbsp;
-================
 ### Habilidades:
 <div style="display: inline-block">
 
