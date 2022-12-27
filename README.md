@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=FF1493&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=150&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Bruna+Guimarães;Tenho+22+Anos+de+Idade;Eu+Moro+Em+Curitiba,+PR;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
 
@@ -73,4 +73,4 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=150&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
