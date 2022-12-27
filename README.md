@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGuimaraes2&layout=compact&hide_border=true&title_color=FF1493&text_color=00cc86&bg_color=0d1117" />
 </div>&nbsp;
 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BrunaGuimaraes2&bg_color=0d1117&color=FF1493&line=FF1493&point=FFB6C1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Habilidades:
 <div style="display: inline-block">
 
